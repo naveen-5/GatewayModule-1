@@ -13,3 +13,4 @@ This is a gateway module for Several applications the features are below
 * On Board RTC Module
 * ON Board Temperature & Humidity Sensor
 * 1 x Micro PCIe addon module
+* Physical Dimension - 130mm x 115mm
